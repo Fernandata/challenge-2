@@ -1,5 +1,5 @@
 # NTT Data Challenge #2
-Genera una funcion que permita recibir un texto y que pueda imprimir la cantidad de veces que se repite una letra
+Genera una funcion que permita recibir un texto y que pueda imprimir la cantidad de veces que se repite una letra.
 
 Ejem:la historia de mi vida
 Resultado:
@@ -22,7 +22,7 @@ v = 1
 
 ## Instructions
 
-First clone this repository.
+Clone this repository.
 ```bash
 $ git clone https://github.com/Fernandata/challenge-2
 ```
